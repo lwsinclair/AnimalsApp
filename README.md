@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tnhann-animalsapp-badge.png)](https://mseep.ai/app/tnhann-animalsapp)
+
 # 🐾 Animal Nutrition API & MCP Server + Mobil Uygulama
 
 Hayvanların beslenme alışkanlıkları hakkında detaylı bilgi sağlayan çok amaçlı servis. Web API, MCP server ve mobil uygulama desteği sunar.
